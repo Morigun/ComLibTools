@@ -1,0 +1,5 @@
+C:\MyDOC\Проекты\C#\Developer\ComLibTools\ComLibTools\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\ComLibTools\ComLibTools\bin\Debug\ComLibTools.dll
+C:\MyDOC\Проекты\C#\Developer\ComLibTools\ComLibTools\bin\Debug\ComLibTools.pdb
+C:\MyDOC\Проекты\C#\Developer\ComLibTools\ComLibTools\obj\Debug\ComLibTools.dll
+C:\MyDOC\Проекты\C#\Developer\ComLibTools\ComLibTools\obj\Debug\ComLibTools.pdb
